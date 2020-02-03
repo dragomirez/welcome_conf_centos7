@@ -51,3 +51,6 @@ yum install epel-release -y
 pip install docker-compose
 
 yum upgrade python* -y
+
+pip install --upgrade pip
+
